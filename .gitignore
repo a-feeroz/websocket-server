@@ -1,0 +1,17 @@
+.DS_Store
+pids
+logs/
+build/
+dist/
+mock/
+cache/
+node_modules/
+.idea/
+npm-debug.log
+.nodejs/
+_nm.tgz
+*.rdb
+deploy.properties
+yarn_modules/
+package-lock.json
+ops/scripts/vars.sh
